@@ -131,13 +131,6 @@ All pages support filtering by:
 - Date Range
 - District
 
-## Screenshots
-<img width="1908" height="783" alt="Screenshot from 2026-01-14 " src="https://github.com/user-attachments/assets/66ca26b3-1e19-45c1-849f-5833a14d7e26" />
-
-<img width="1908" height="783" alt="Screenshot from 2026-01-14 " src="https://github.com/user-attachments/assets/a016778d-8af3-423b-85c1-80e35f32a6e2" />
-
-<img width="1908" height="783" alt="Screenshot from 2026-01-14" src="https://github.com/user-attachments/assets/cc269b86-2f46-4c31-99e6-bc49b3649a45" />
-
 ## License
 
 ### GNU General Public License v3.0
