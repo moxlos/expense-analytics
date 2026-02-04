@@ -23,6 +23,12 @@ A Streamlit-based analytics dashboard for organizational expense data, featuring
 - **Normality Testing**: Shapiro-Wilk tests to validate statistical assumptions
 - **Budget Recommendations**: Confidence interval-based budget allocation with borrowing cost calculations
 
+<img width="1908" height="783" alt="Screenshot from 2026-3" src="https://github.com/user-attachments/assets/a30cf718-378f-42ba-8c6f-896c7124ab12" />
+<img width="1908" height="783" alt="Screenshot from 2026-2" src="https://github.com/user-attachments/assets/1dd38957-b377-4d84-b5f4-b5a6b846a63e" />
+<img width="1908" height="783" alt="Screenshot from 2026-1" src="https://github.com/user-attachments/assets/d664951c-7a48-4dca-a7ba-2c5551d1c593" />
+
+
+
 ## Analytics Methods
 
 ### Moving Average
